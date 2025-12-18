@@ -1,0 +1,31 @@
+title: Evaluación de Prompts en Español con GPT
+description: Evaluación de 30 prompts con GPT
+
+prompts:
+  - file://prompts.txt
+
+providers:
+  - id: openai:gpt-4.1-mini
+    config:
+      apiKey: "MySecretApiKey"
+      temperature: 0.6
+
+tests:
+  - vars:
+      input: "Diferencia entre let, const y var"
+    assert:
+      - type: contains
+        value: "let"
+      - type: contains
+        value: "const"
+      - type: contains
+        value: "var"
+  - vars:
+      input: "Promesas y Async/Await"
+    assert:
+      - type: contains
+        value: "let"
+      - type: contains
+        value: "const"
+      - type: contains
+        value: "var"

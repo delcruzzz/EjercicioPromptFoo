@@ -1,0 +1,59 @@
+Explica el concepto de {{input}} en JavaScript como si fuera un niño de 10 años.
+---
+Actúa como un tutor de programación senior. Explica {{input}} con un ejemplo de código breve y limpio.
+---
+¿Cuáles son los errores más comunes que cometen los principiantes al usar {{input}} en JS?
+---
+Resume la documentación de MDN sobre {{input}} en tres puntos clave.
+---
+Escribe un ejercicio práctico nivel básico para practicar {{input}}.
+---
+Crea una analogía de la vida real para entender mejor {{input}}.
+---
+Explica la diferencia entre {{input}} y conceptos similares en JavaScript.
+---
+Dame una guía paso a paso de cómo implementar {{input}} en un proyecto pequeño.
+---
+Genera un snippet de código que demuestre el uso correcto de {{input}}.
+---
+¿Por qué es importante entender {{input}} para aprender frameworks como React o Vue?
+---
+Crea un cuestionario de 3 preguntas de opción múltiple sobre {{input}}.
+---
+Actúa como un entrevistador técnico. Hazme una pregunta de nivel junior sobre {{input}}.
+---
+Explica las mejores prácticas (clean code) relacionadas con {{input}}.
+---
+Escribe un comentario de código divertido que explique qué hace {{input}}.
+---
+¿Cómo ha evolucionado {{input}} desde las versiones antiguas de JS (ES5) hasta hoy (ES6+)?
+---
+Muestra un ejemplo de un "antipattern" (mala práctica) al usar {{input}} y cómo corregirlo.
+---
+Crea un mapa mental de texto sobre cómo se relaciona {{input}} con otros conceptos básicos de JS.
+---
+Explica el concepto de {{input}} centrándote únicamente en el rendimiento (performance).
+---
+Dame un truco o "hack" poco conocido sobre el uso de {{input}}.
+---
+Escribe una función de JavaScript que utilice {{input}} para resolver un problema cotidiano.
+---
+¿Qué pasa "detrás de escenas" en el motor de JavaScript cuando ejecutamos {{input}}?
+---
+Diseña una tarjeta de estudio (flashcard) para memorizar la sintaxis de {{input}}.
+---
+Compara {{input}} con cómo se manejaría ese mismo concepto en Python o Java.
+---
+Escribe un hilo de Twitter (X) de 5 posts explicando {{input}} de forma viral.
+---
+Encuentra y explica el error en este código imaginario que usa {{input}}.
+---
+¿Cómo puedo depurar (debug) problemas relacionados con {{input}} usando la consola del navegador?
+---
+Crea un acrónimo para recordar las reglas principales de {{input}}.
+---
+Explica {{input}} usando solo emojis y una línea de código.
+---
+¿Cuál es la limitación más grande de {{input}} en JavaScript moderno?
+---
+Escribe un mensaje de log para la consola que explique el estado de {{input}} de forma creativa.
