@@ -1,4 +1,4 @@
-Explica el concepto de {{input}} en JavaScript como si fuera un niño de 10 años.
+Explica el concepto de {{input}} en JavaScript enfocado en buenas practicas.
 ---
 Actúa como un tutor de programación senior. Explica {{input}} con un ejemplo de código breve y limpio.
 ---
